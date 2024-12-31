@@ -1,0 +1,90 @@
+[
+  {
+    "firstname": "gunn",
+    "lastname": "khurana",
+    "password": "231",
+    "mobile": "8930065035",
+    "birthdate": "2024-12-13",
+    "gender": "Female",
+    "address": "uwhidw",
+    "country": "India",
+    "pincode": "132103"
+  },
+  {
+    "firstname": "gunn",
+    "lastname": "khurana",
+    "password": "gunn",
+    "mobile": "8930065035",
+    "gender": "Female",
+    "birthdate": "2024-12-10",
+    "address": "hsiwhsiw",
+    "country": "India",
+    "pincode": "132103"
+  },
+  {
+    "firstname": "gunn",
+    "lastname": "khurana",
+    "password": "q12",
+    "mobile": "780982068792",
+    "gender": "Female",
+    "birthdate": "2005-09-22",
+    "address": "hu",
+    "country": "India",
+    "pincode": "232"
+  },
+  {
+    "firstname": "Aditi",
+    "lastname": "bansal",
+    "password": "Aditi12",
+    "mobile": "6239701585",
+    "gender": "Female",
+    "birthdate": "2005-07-21",
+    "address": "NEAR M.C PARK,WARD NO:13,BHUCHO MANDI",
+    "country": "USA",
+    "pincode": "151101"
+  },
+  {
+    "firstname": "Himanshi",
+    "lastname": ".",
+    "password": "123",
+    "mobile": "523989",
+    "gender": "Female",
+    "birthdate": "2005-01-21",
+    "address": "Gandhi Nagar",
+    "country": "USA",
+    "pincode": "+1"
+  },
+  {
+    "firstname": "Himanshi",
+    "lastname": "modi",
+    "password": "123",
+    "mobile": "789654",
+    "gender": "Female",
+    "birthdate": "2005-01-21",
+    "address": "Gandhi Nagar",
+    "country": "USA",
+    "pincode": "+1"
+  },
+  {
+    "firstname": "himanshi",
+    "lastname": "modi",
+    "password": "123",
+    "mobile": "564232",
+    "gender": "Female",
+    "birthdate": "2005-01-10",
+    "address": "Gandhi nagar",
+    "country": "India",
+    "pincode": "+1"
+  },
+  {
+    "firstname": "Aastha",
+    "lastname": "ch",
+    "password": "12345",
+    "mobile": "678965",
+    "gender": "Female",
+    "birthdate": "2005-09-13",
+    "address": "xyz",
+    "country": "India",
+    "pincode": "91"
+  }
+]
